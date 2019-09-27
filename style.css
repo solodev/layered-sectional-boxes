@@ -88,7 +88,7 @@ html {
   @media (min-width: 768px) and (max-width: 991.98px) {
     h3 {
       font-size: 1.2rem !important;
-      left: 29%;
+      left: 31%;
       top: 30%;
     }
   }
@@ -129,4 +129,17 @@ html {
       max-width: 41.666667%;
     }
   }
+
+  @media (min-width: 575.98px) and (max-width: 768px) {
+    h3 {
+      font-size: 0.8rem !important;
+      left: 32%;
+      top: 28%;
+    }
+
+    .our-people img.box {
+        margin-top: -30%;
+    }
+  }
+  
   

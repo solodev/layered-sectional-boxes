@@ -6,7 +6,7 @@ For detailed instruction's, view Solodev's [How to Create Layered Sectional Boxe
 
 ## Demo
   		  
-Try out a working example on [JSFiddle]().
+Try out a working example on [JSFiddle](https://jsfiddle.net/solodev/otdru571/12/).
 
 ## HTML
 
